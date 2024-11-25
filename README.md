@@ -14,3 +14,6 @@ SAM2 + Stable Diffusion + AnimateDiff + LoRA + ControlNet
 4. Run again.
 
 <img src="VideoEditting/preview.png" width="600" />
+
+# Video Reference
+https://www.youtube.com/shorts/Ay21VqHE90g
