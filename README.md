@@ -7,16 +7,16 @@ SAM2 + Stable Diffusion + AnimateDiff + LoRA + ControlNet
 <table>
   <tr>
     <td align="center">
-      <img src="VideoEditting/ori.mp4" width="240" />
+      <img src="VideoEditting/ori.gif" width="240" />
     </td>
     <td align="center">
-      <img src="VideoEditting/gen1.mp4" width="240" />
+      <img src="VideoEditting/gen1.gif" width="240" />
     </td>
     <td align="center">
-      <img src="VideoEditting/gen2.mp4" width="240" />
+      <img src="VideoEditting/gen2.gif" width="240" />
     </td>
     <td align="center">
-      <img src="VideoEditting/gen3.mp4" width="240" />
+      <img src="VideoEditting/gen3.gif" width="240" />
     </td>
   </tr>
 </table>
